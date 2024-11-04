@@ -19,9 +19,9 @@ https://gitextensions.github.io/
 2. **Clone to Your Local Machine:**
     - Open your terminal or command prompt.
     - Run:
-        ```bash
+```
 git clone https://github.com/your-username/appliedOS.git
-        ```
+```
 
 Replace `your-username` with your GitHub username.
 
